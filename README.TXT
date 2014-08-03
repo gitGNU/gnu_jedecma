@@ -26,7 +26,7 @@ Later, the user of Jedecma, involved as lecturer in a conference cycle, has plan
 
 To ease installation, configuration and back-up tasks I provided an embedded database as default database engine, so the program can be installed simply copying and pasting it to the destination directory and it should run out-the-box in single user mode.
 A ready-to-use binary version can be found at: 
-https://bintray.com/sfmarc/jedecma/
+http://download.savannah.gnu.org/releases/jedecma/
 
 Please be aware that the current version reflects the changes done in order to release it as Free Software and in this form it has never really been used.
 
