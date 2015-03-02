@@ -1,7 +1,7 @@
 /* 
  * Jedecma.java - main class
  * 
- * Copyright (c) 2014 Stefano Marchetti
+ * Copyright (c) 2015 Stefano Marchetti
  * 
  * This file is part of Jedecma - breast ultrasound examinations archiving software
  * 
@@ -37,7 +37,8 @@ public class Jedecma extends JFrame {
 	//final static String progVers = "3.0.0"; final static String progBuild = "20140310-1000"; // supporto Db-Derby; modificate query, funzioni Date per data Nul
 	//final static String progVers = "3.1.0"; final static String progBuild = "20140410-1510"; // EULA
 	//final static String progVers = "3.1.1"; final static String progBuild = "20140515-0930"; // var.EULA e info/about
-	final static String progVers = "3.1.2"; final static String progBuild = "20140603-0000"; // var.msg.info/about
+	//final static String progVers = "3.1.2"; final static String progBuild = "20140603-0000"; // var.msg.info/about
+	final static String progVers = "3.1.3"; final static String progBuild = "20150302-1030"; // agg.to copyright
 	// ****************************************************************
 	static Image logo1 = null;
 	static Image logo2 = null;

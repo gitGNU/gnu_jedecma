@@ -1,7 +1,7 @@
 /*  
  * EcoExp.java - exports examinations data to CSV file
  * 
- * Copyright (c) 2014 Stefano Marchetti
+ * Copyright (c) 2015 Stefano Marchetti
  * 
  * This file is part of Jedecma - breast ultrasound examinations archiving software
  * 
