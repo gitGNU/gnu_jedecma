@@ -1,5 +1,5 @@
 Jedecma - breast ultrasound examinations archiving software
-Copyright (c) 2015 Stefano Marchetti.
+Copyright (c) 2016 Stefano Marchetti.
 
 Jedecma is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
 
@@ -11,4 +11,3 @@ ChangeLog.txt
 -------------
 
 3.1.2b: Messages.* files changed (see download area)
-3.1.3: Copyright info updated

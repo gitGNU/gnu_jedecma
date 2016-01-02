@@ -1,7 +1,7 @@
 /*  
  * JDBCMgr.java - connection and query management
  * 
- * Copyright (c) 2015 Stefano Marchetti
+ * Copyright (c) 2016 Stefano Marchetti
  * 
  * This file is part of Jedecma - breast ultrasound examinations archiving software
  * 
